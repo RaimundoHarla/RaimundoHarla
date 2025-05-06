@@ -7,7 +7,10 @@
 
 ###
 
-<p align="left">Meu nome é Harlã, sou desenvolvedor back-end e estou aprendendo javascript. Sou uma pessoa apaixonada por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias. Atualmente, curso Engenharia de Software na UNDB, onde venho ampliando meus conhecimentos em desenvolvimento, inovação e soluções tecnológicas avançadas.</p>
+- 🎓 Cursando Engenharia de Software na UNDB  
+- 👨‍💻 Desenvolvedor Back-End com foco em Python  
+- 📚 Aprendendo JavaScript e tecnologias web  
+- 💡 Entusiasta de inovação, software e aprendizado contínuo
 
 ###
 
@@ -27,6 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaimundoHarla&show_icons=true&theme=radical" height="150"/>
 </div>
 
 ###
