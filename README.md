@@ -38,7 +38,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RaimundoHarla&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaimundoHarla&layout=compact&theme=radical" height="150"/>
 </div>
 
 ###
